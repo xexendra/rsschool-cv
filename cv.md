@@ -15,3 +15,5 @@ Previously, my job had nothing to do with programming: I worked as a cashier in 
 My studies was not previously associated with programming. In 2014-2019, I studied as a teacher-psychologist of deviant behavior at the Kuban State University, did an internship in a kindergarten, school, gymnasium, at state exams, children's camps (in Russia and Germany), in prison. I took various small courses during studies at the university and after it.
 
 Now I'm actively studying Adobe Illustrator, using a graphics tablet, design. And I also have many other hobbies outside the field of programming.
+## English language
+My English language proficiency ranges from B1 Intermediate to B2 Upper Intermediate, in accordance with the guidelines set by the Common European Framework of Reference (CEFR).
