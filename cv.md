@@ -1,3 +1,4 @@
+![Аватара](https://sun9-73.userapi.com/KniZwcpUc3nsBst7nr1waPf_r-ZEl_c-cS6BMQ/STm5pvXIF1U.jpg) 
 # VARVARA KHOLMANSKAYA
 ## Contacts
 **Tel:** +7 (952) 877-62-10
@@ -7,6 +8,7 @@
 **VK:** https://vk.com/xexendra
 ## Programming
 This summer I started my way in programming with [a course at STEPIK.ORG from ITC](https://stepik.org/course/38218). Now I know HTML and CSS at a beginner level. The course I have taken has proven that I can learn new and complex information in a short time.
+![Сертефикат](https://sun1-96.userapi.com/HQkONq5-FJR5sEbEQFLid9tkxlSpis-TL-1-cg/Uq4gUJoFsU4.jpg) 
 ## Example of work
 For now there is only an example from the course that I took. (gh-pages => Houston. Wikipedia.html)
 ## Work 
