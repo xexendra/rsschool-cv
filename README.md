@@ -1,1 +1,1 @@
-# https://xexendra.github.io/rsschool-cv/cv
+# https://xexendra.github.io/rsschool-cv/
